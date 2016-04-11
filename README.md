@@ -1,5 +1,10 @@
 # awesome-lunch-nyc
 
+#### NOHO & East Village
+- [Mighty Quinn's Barbeque - 6th & 7th st, 2nd ave](http://www.yelp.com/biz/mighty-quinns-barbeque-new-york) - Barbeque.
+- [Tac N Roll - 4th st, 1st & 2nd ave](http://www.yelp.com/biz/tac-n-roll-new-york-3) - Tacos.
+- [Otto's Tacos - 8th & 9th st, 2nd ave](http://www.yelp.com/biz/ottos-tacos-new-york) - Tacos.
+
 #### Chelsea
 - [Golden City - 33rd & 34th st, 9th ave](http://www.yelp.com/biz/golden-city-chinese-restaurant-new-york) - Chinese Takeout. Typical and affordable Chinese takeout--still it's the only decent Chinese takeout spot within miles. Lunch specials are around $6 and comes with a drink. If you're looking to try something new, order their ($7) Singapore Mei Fun. Lines can get busy during lunch hours, and you may find yourself waiting over 15 minutes just to get your food so I recommend coming here before 12PM or after 1:30PM to save yourself 10 minutes.
 - [Riko's Peruvian Cusine - 30th & 31st, 8th ave](http://www.yelp.com/biz/riko-peruvian-cuisine-new-york-2) - Peruvian. Great spot for authentic Latin American food and rotisserie chicken. There's an EXCELLENT selection of dishes to choose from ranging from chicken, to beef, to seafood. Grab the ($7) half chicken--the meat is very moist and distinctly flavorful. I'd skip the rice and beans and just split a ($11) whole chicken and feast like a king.
@@ -15,5 +20,4 @@
 
 #### Hell's Kitchen
 - [Blossom Du Jour - 44th st, 9th ave](http://www.yelp.com/biz/blossom-on-columbus-new-york) - Vegan. Great spot for vegans and vegetarians with lunches ranging from $8 to $9. I'd recommend the ($9) Midtown Melt, ($9) Little Italy, and the ($8) Skyscraper Burger if you're feeling adventurous. I'd skip the salads here and recommend grabbing something at [Maoz](http://www.yelp.com/biz/maoz-vegetarian-new-york), [Green Symphony](http://www.yelp.com/biz/green-symphony-new-york), [Just Salad](http://www.yelp.com/biz/just-salad-new-york) instead. Avoid ordering anything greasy or oily since the sauce will easily leak through your container.
-
 - [Taqueria Tehuitzingo](http://www.yelp.com/biz/taqueria-tehuitzingo-new-york) - Mexican. This is the spot if you want ($3) delicious and very filling tacos. I'd avoid the $12 platters and stick to tacos.
